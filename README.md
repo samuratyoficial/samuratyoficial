@@ -15,6 +15,6 @@ Hi!I'm a developer in Lua, php, javascript, c#, c, c++, html, css and Python
 
 
 
-【🌐】My website:
+【🌐】My website: Soon
 
 【🌌】https://discord.gg/c3s7dzveD9 In browser for my server :)
