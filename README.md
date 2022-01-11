@@ -10,7 +10,12 @@
 
 
 
-Hi!I'm a developer in Lua, php, javascript, c#, c, c++, html, css and Python
+I'm very busy with school
+
+Add my on Discord: 👑⚜𝓢𝓐𝓜𝓤𝓡𝓐𝓣𝓨⚜👑#0001
+
+I speak Romanian, English, a little French and German
+do not dm me hi and can i ask a question? just send your question in the first message
 
 
 
