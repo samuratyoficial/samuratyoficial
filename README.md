@@ -25,7 +25,3 @@ do not dm me hi and can i ask a question? just send your question in the first m
 【🌌】https://discord.gg/c3s7dzveD9 In browser for my server :)
 
 【🐱‍💻】Hacker One:https://hackerone.com/samuraty?type=user
-
-![Stats](https://github-readme-stats.vercel.app/api?username=samuratyoficial&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuratyoficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
