@@ -21,6 +21,6 @@ Hi!I'm a developer in Lua, php, javascript, c#, c, c++, html, css and Python
 
 【🐱‍💻】Hacker One:https://hackerone.com/samuraty?type=user
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
